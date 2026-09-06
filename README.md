@@ -157,9 +157,9 @@ Learn business now: product thinking, customer interviews, finance basics, sales
 
 ## 📌 How to use this repository like Notion
 
-- Use **Issues** for every actionable task: [code[0mImplement JWT refresh tokens[code[0m, not [code[0mLearn security[code[0m.
+- Use **Issues** for every actionable task: Implement JWT refresh tokens, not Learn security.
 - Use the **Projects** board for status: Backlog → This Week → In Progress → Review → Done.
-- Use issue labels: [code[0mdsa[code[0m, [code[0mbackend[code[0m, [code[0mportfolio[code[0m, [code[0mjob-search[code[0m, [code[0mbusiness[code[0m, and [code[0mgaming[code[0m.
+- Use issue labels: dsa, backend, portfolio, job-search, business, and gaming.
 - Create a Pull Request even for solo features. It makes your development history easier to explain.
 
 ---
